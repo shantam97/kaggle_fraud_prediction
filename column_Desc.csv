@@ -1,0 +1,25 @@
+Column,Description
+CLAIMNO,Unique ID generated for each claim
+REPORTEDDT,Date when the claim is reported
+LOSSDT,Date when the loss has actually happened
+BIRTHDT,Birth date of the claimant
+SICCD,Industry code of the company
+CAUSEOFINJURY_FLTRCD,Cause of Injury code
+BODYPART_FLTRCD,Code for Body part where injury happened 
+RTRN_TOWORKIND,Has returned to work after the injury or not
+NATUREOFINJURYCD,Code for the nature of Injury
+LOSSSTATECD,Location where the loss has happened
+WORK_LOC_STATECD,Location of work
+INSUREDLAT,Insurer's Latitude(Location)
+INSUREDLON,Insurer's longitude(location)
+CLMNT_LAT,Claimant's Latitude(Location)
+CLMNT_LON,Claimant's Longitude(Location)
+CLMNT_STATECD,Claimant's state
+INSUREDSTATECD,Insurer's state
+CLMNT_NA_cleaned_root,Name of the person who claimed
+N_PRVDR_NAME_NONPHYS_cleaned_root,Name of the Physician 
+N_REFRING_PHYS_final_root,Name of the Referred Physician
+INSUREDNA_cleaned_root,Name of the Insurer
+N_PAYTO_NAME_cleaned_root,Hospital Name
+Prov_Name_All_final_root,Name of the Doctor
+TARGET,Target
